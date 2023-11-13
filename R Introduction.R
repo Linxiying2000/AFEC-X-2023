@@ -1,16 +1,4 @@
-#Everything after # ignored by R; Good for annotating code 
 
-#script file
-#record of my analysis
-
-#R as a calculator:
-2+5
-5+5 #(mac: cmd+return, windows: contrl+enter)
-3*9
-3/2
-3^2
-3**2
-3^(1/4)
 
 # is called a hash, * is called an asterisk
 #####Built-in functions: 
